@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740933562 source:c:\users\asoto\onedrive\documents\prog-2.3\prog-2.3\main.c
+	<stdio.h>
+	<stdlib.h>
+
